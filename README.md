@@ -2,7 +2,6 @@
 ![logo linkedln cleaner](https://github.com/icypeas-tech/linkedin-cleaner/assets/128605482/8db8625c-f7e3-4675-a576-3be51e8e374c)
 
 
-
 <h1 align="center">
 The solution that is both free and open-source, designed to streamline the process of automatically deleting pending invitation requests on LinkedIn.
 
@@ -10,7 +9,7 @@ The solution that is both free and open-source, designed to streamline the proce
 
 LinkedIn Cleaner is an open-source Chrome extension developed by the Icypeas team, to streamline the process of automatically deleting pending invitation requests on LinkedIn.
 <p align="center">
-  <img width="400"  src="https://github.com/icypeas-tech/linkedin-cleaner/assets/128605482/9f938ab8-fc7c-496e-8ece-464577e7c2e2">
+  <img width="400"  src="https://github.com/icypeas-tech/linkedin-cleaner/assets/128605482/2d422c1b-f8c0-4f3c-99d2-bb95385269d2">
 </p>
 
 
