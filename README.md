@@ -3,11 +3,11 @@
 
 
 <h1 align="center">
-The solution that is both free and open-source, designed to streamline the process of automatically deleting pending invitation requests on LinkedIn.
+Introducing a cutting-edge solution, free and open-source, crafted to seamlessly automate the removal of pending invitation requests on LinkedIn.
 
 </h1>
 
-LinkedIn Cleaner is an open-source Chrome extension developed by the Icypeas team, to streamline the process of automatically deleting pending invitation requests on LinkedIn.
+Icypeas team proudly presents LinkedIn Cleaner, an open-source Chrome extension meticulously designed to effortlessly automate the deletion of pending invitation requests on LinkedIn. Simplify your networking experience with this innovative solution.
 <p align="center">
   <img width="400"  src="https://github.com/icypeas-tech/linkedin-cleaner/assets/128605482/2d422c1b-f8c0-4f3c-99d2-bb95385269d2">
 </p>
@@ -20,10 +20,21 @@ LinkedIn Cleaner is an open-source Chrome extension developed by the Icypeas tea
 - [ ] Select the project directory
 - [ ] Enable the extension
 
-## 🚦 Test
+## 🚦 Usage
 
-- [ ]  Select the icon located in the upper right-hand corner, followed by clicking the "Clean" button once you've reached the relevant page.
-(Warning: This action cannot be undone!)
+Optimize your LinkedIn experience with LinkedIn Cleaner:
+
+- [ ] Activate LinkedIn Cleaner by simply pressing the extension.
+- [ ] Navigate to https://www.linkedin.com/mynetwork/invitation-manager/sent/.
+- [ ] Ensure smooth operation by pressing the LinkedIn Cleaner extension again.
+- [ ] Effortlessly eliminate pending requests by pressing the 'Remove Pending Request' button.
+- [ ] Stay on the page until all pending requests are successfully removed.
+
+Seamlessly manage your LinkedIn connections—just another way our startup approach enhances your workflow.
+This video demonstrates how to use it :
+<p align="center">
+  <video src="./src/videos/LinkedInCleaner.mp4" controls width="500" loop></video>
+</p>
 
 ## 📋 Files
 
@@ -37,7 +48,7 @@ LinkedIn Cleaner is an open-source Chrome extension developed by the Icypeas tea
 
 ##  👨‍💻 Support
 
-If you have any questions or need assistance, feel free to get in touch with us. We're here to help and support you: support@icypeas.com
+If you have any questions or require assistance, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way. Contact us at support@icypeas.com for prompt and reliable assistance.
 
 
 
