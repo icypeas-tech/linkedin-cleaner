@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-Introducing a cutting-edge solution, free and open-source, crafted to seamlessly automate the removal of pending invitation requests on LinkedIn.
+Introducing a free and open-source solution designed to seamlessly automate the removal of pending invitation requests on LinkedIn, tailored specifically to your needs.
 
 </h1>
 
