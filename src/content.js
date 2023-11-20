@@ -29,8 +29,8 @@ function removeInvitations() {
 
 		// Réinitialise le processus après avoir supprimé un profil
         removeInvitations();
-		
-	}, 50); // 50 ms entre chaque suppresion
+	// 50 ms entre chaque suppresion	
+	}, 50); 
 }
 
 // Ecoute les messages provenant du runtime de l'extension Chrome

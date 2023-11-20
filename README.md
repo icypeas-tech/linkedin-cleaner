@@ -32,8 +32,11 @@ Optimize your LinkedIn experience with LinkedIn Cleaner:
 
 Seamlessly manage your LinkedIn connections—just another way our startup approach enhances your workflow.
 This video demonstrates how to use it :
-<p align="center">
-  <video src="./src/videos/LinkedInCleaner.mp4" controls width="500" loop></video>
+
+<p dir="auto" align="center"><animated-image data-catalyst="">
+  <a target="_blank" rel="noopener noreferrer" href="./src/videos/lk-cleaner.mp4" data-target="animated-image.originalLink">
+    <img src="./src/videos/lk-cleaner.gif" alt="build" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  </a>
 </p>
 
 ## 📋 Files
