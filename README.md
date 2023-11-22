@@ -34,9 +34,11 @@ Seamlessly manage your LinkedIn connections—just another way our startup appro
 This video demonstrates how to use it :
 
 <p dir="auto" align="center"><animated-image data-catalyst="">
-  <a target="_blank" rel="noopener noreferrer" href="./src/videos/lk-cleaner.mp4" data-target="animated-image.originalLink">
-    <img src="./src/videos/lk-cleaner.gif" alt="build" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-  </a>
+
+
+https://github.com/icypeas/linkedin-cleaner/assets/137278677/5acca794-90df-4fdb-b241-d2ea43ff9617
+
+
 </p>
 
 ## 📋 Files
