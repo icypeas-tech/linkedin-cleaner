@@ -14,7 +14,7 @@
     	"service_worker": "src/background.js"
   	},
   	"permissions": [
-    	"activeTab"
+    	"https://www.linkedin.com/"
   	],
   	"content_scripts": [
     	{
